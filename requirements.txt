@@ -1,0 +1,3 @@
+git+https://github.com/ReproNim/reproman.git@83e3bd6#egg=reproman
+datalad>=0.14.1
+datalad-container>=1.1.2
